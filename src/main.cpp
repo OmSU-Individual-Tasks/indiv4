@@ -7,7 +7,5 @@ int main(int, char **)
 {
     Menu test;
     
-    // just try this
-
     return 0;
 }
