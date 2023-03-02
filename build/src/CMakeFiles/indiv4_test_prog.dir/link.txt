@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\indiv4_test_prog.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\indiv4_test_prog.dir/objects.a @CMakeFiles\indiv4_test_prog.dir\objects1.rsp
+C:\msys64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\indiv4_test_prog.dir/objects.a -Wl,--no-whole-archive -o ..\bin\indiv4_test_prog.exe -Wl,--out-implib,..\lib\libindiv4_test_prog.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\indiv4_test_prog.dir\linkLibs.rsp

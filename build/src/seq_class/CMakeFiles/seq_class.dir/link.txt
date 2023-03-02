@@ -1,0 +1,2 @@
+C:\msys64\mingw64\bin\ar.exe qc ..\..\lib\libseq_class.a CMakeFiles/seq_class.dir/seq_class.cpp.obj
+C:\msys64\mingw64\bin\ranlib.exe ..\..\lib\libseq_class.a
