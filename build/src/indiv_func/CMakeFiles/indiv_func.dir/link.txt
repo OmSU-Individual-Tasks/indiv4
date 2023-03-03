@@ -1,2 +1,0 @@
-C:\msys64\mingw64\bin\ar.exe qc ..\..\lib\libindiv_func.a CMakeFiles/indiv_func.dir/indiv_func.cpp.obj
-C:\msys64\mingw64\bin\ranlib.exe ..\..\lib\libindiv_func.a

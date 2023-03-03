@@ -1,2 +1,0 @@
-C:\msys64\mingw64\bin\ar.exe qc ..\..\lib\libsupp_func.a CMakeFiles/supp_func.dir/supp_func.cpp.obj
-C:\msys64\mingw64\bin\ranlib.exe ..\..\lib\libsupp_func.a

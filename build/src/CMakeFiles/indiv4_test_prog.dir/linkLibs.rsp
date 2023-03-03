@@ -1,1 +1,0 @@
- ../lib/libindiv_func.a ../lib/libseq_class.a ../lib/libmenu_class.a ../lib/libsupp_func.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

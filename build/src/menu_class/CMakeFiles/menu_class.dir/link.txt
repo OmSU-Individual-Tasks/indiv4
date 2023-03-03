@@ -1,2 +1,0 @@
-C:\msys64\mingw64\bin\ar.exe qc ..\..\lib\libmenu_class.a CMakeFiles/menu_class.dir/menu_class.cpp.obj
-C:\msys64\mingw64\bin\ranlib.exe ..\..\lib\libmenu_class.a
